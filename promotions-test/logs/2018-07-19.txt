@@ -1,0 +1,15 @@
+2018-07-19 16:03:15.280105	| SUCCESS | stecontent>stagingcontent | PATH: /credit-cards/current-promotions/webpage10051.txt
+2018-07-19 16:03:15.285035	| SUCCESS | stecontent>stagingcontent | PATH: /credit-cards/current-promotions/webpage11021.txt
+2018-07-19 16:03:15.294542	| SUCCESS | stecontent>stagingcontent | PATH: /credit-cards/current-promotions/webpage19674.txt
+2018-07-19 16:03:15.300309	| SUCCESS | stecontent>stagingcontent | PATH: /credit-cards/current-promotions/webpage28394.txt
+2018-07-19 16:03:15.319169	| SUCCESS | stecontent>stagingcontent | PATH: /credit-cards/current-promotions/webpage62858.txt
+2018-07-19 16:06:20.770741	| SUCCESS | stecontent>stagingcontent | PATH: /credit-cards/current-promotions/webpage10051.txt
+2018-07-19 16:06:20.779300	| SUCCESS | stecontent>stagingcontent | PATH: /credit-cards/current-promotions/webpage11021.txt
+2018-07-19 16:06:20.786674	| SUCCESS | stecontent>stagingcontent | PATH: /credit-cards/current-promotions/webpage19674.txt
+2018-07-19 16:06:20.805383	| SUCCESS | stecontent>stagingcontent | PATH: /credit-cards/current-promotions/webpage28394.txt
+2018-07-19 16:06:20.814133	| SUCCESS | stecontent>stagingcontent | PATH: /credit-cards/current-promotions/webpage62858.txt
+2018-07-19 16:06:20.818993	| SUCCESS | stecontent>stagingcontent | PATH: /credit-cards/current-promotions/webpage23631.txt
+2018-07-19 16:06:20.838088	| SUCCESS | stecontent>stagingcontent | PATH: /credit-cards/current-promotions/webpage32490.txt
+2018-07-19 16:06:20.846036	| SUCCESS | stecontent>stagingcontent | PATH: /credit-cards/current-promotions/webpage37385.txt
+2018-07-19 16:06:20.850740	| SUCCESS | stecontent>stagingcontent | PATH: /credit-cards/current-promotions/webpage39932.txt
+2018-07-19 16:06:20.851179	| FAILED  | stecontent>stagingcontent | PATH: /credit-cards/current-promotions/webpage92807asdasdasdas.txt

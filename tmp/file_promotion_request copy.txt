@@ -1,0 +1,4 @@
+FROM:stecontent
+TO:stagingcontent
+
+/credit-cards/current-promotions/webpage10051.txt/credit-cards/current-promotions/webpage11021.txt/credit-cards/current-promotions/webpage19674.txt/credit-cards/current-promotions/webpage28394.txt/credit-cards/current-promotions/webpage62858asdadasd.txt
